@@ -1,4 +1,4 @@
-# 🌱 Tamarind AI Developer Training
+# 🌱 Tamarind AI Developer Training 101
 
 Welcome to the Tamarind AI Developer Training – a self-paced program where you learn by building real-world AI projects.
 
